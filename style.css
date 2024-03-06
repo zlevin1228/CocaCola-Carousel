@@ -1,0 +1,10 @@
+body {
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.coca {
+  border-width: 2px solid black;
+  border-color: black;
+  border-radius: 3px;
+}
